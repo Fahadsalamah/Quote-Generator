@@ -12,4 +12,3 @@ BackGround Style: Hero Pattern from => https://www.heropatterns.com/.
 Quotes Font Style: Google Font => @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100&display=swap').
 Link the Twitter Button to Twitter page with some chenges to do new tweet and write the Quote in it. https://twitter.com/intent/tweet.
 Creating a loader from https://www.w3schools.com/howto/howto_css_loader.asp.
-
