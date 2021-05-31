@@ -6,6 +6,7 @@ first step of the application will choose a random number that number will
 generate which quote will show on the screen then if click on new quote will do that again. 
 if click on Twitter logo will take you to the Twitter page and create a new tweet 
 then paste the Quote and author so that you can tweet it faster.
+You can visit the application by CLICKING on https://fahadsalamah.github.io/Quote-Generator/.
 
 usage:
 BackGround Style: Hero Pattern from => https://www.heropatterns.com/.
